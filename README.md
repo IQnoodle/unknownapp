@@ -10,3 +10,4 @@ This is an unknown application written in Java
 
 
 ### Prompts
+Analyze the registerCourse method in EnrollmentSystem.java and the overlaps logic in TimeSlot.java, then write an equivalent Python function that registers a student for a course while validating capacity, prerequisites, and schedule conflicts.
